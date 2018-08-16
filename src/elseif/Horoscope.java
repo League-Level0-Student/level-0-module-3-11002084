@@ -21,7 +21,7 @@ public static void main(String[] args) {
 		JOptionPane.showMessageDialog(null, "You get a house.");
 	}
 	else if(sign.equals("virgo")) {
-		JOptionPane.showMessageDialog(null, "You be a virgin.");
+		JOptionPane.showMessageDialog(null, "You will be a virgin.");
 	}
 	else if(sign.equals("libra")) {
 		JOptionPane.showMessageDialog(null, "You get a cookie.");
